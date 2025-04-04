@@ -1,0 +1,133 @@
+using System.Threading.Channels;
+
+namespace tapsiriq1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // 1-ci sual
+            //string ad = "Cavid";
+            //Console.WriteLine(ad[ad.Length-1]);
+
+
+            // 2-ci sual
+            //string ad = "Cavid";
+            //Console.WriteLine(ad[0]);
+
+
+
+            // 3-cu sual
+            //int eded = Convert.ToInt32(Console.ReadLine());
+            //if (eded%2==0)
+            //{
+            //    Console.WriteLine("eded cutdur");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("eded tekdir");
+
+            //}
+
+
+            // 4-cu sual
+            //int eded1 = Convert.ToInt32(Console.ReadLine());
+            //int eded2 = Convert.ToInt32(Console.ReadLine());
+            //if (eded1> eded2)
+            //{
+            //    Console.WriteLine("1-ci eded 2-den boyukdur");
+            //}
+            //else if (eded1<eded2)
+            //{
+            //    Console.WriteLine("2-ci eded 1-den boyukdur");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("ededler beraberdir");
+            //}
+
+
+
+            // 5 - ci sual
+            //int eded = Convert.ToInt32(Console.ReadLine());
+            //if (eded == 0)
+            //{
+            //    Console.WriteLine("eded sifira beraberdir");
+            //}
+            //else if (eded>0){
+            //    Console.WriteLine("eded musbetdir");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("eded menfidir");
+
+            //}
+
+
+            // 6-ci sual
+            //string ad1 = Console.ReadLine();
+            //string ad2 = Console.ReadLine();
+            //if (ad1==ad2)
+            //{
+            //    Console.WriteLine("stringler eynidir");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("stringler eyni deyil");
+            //}
+
+
+            // 7-ci sual
+            //int bolunen = Convert.ToInt32(Console.ReadLine());
+            //int bolen= Convert.ToInt32(Console.ReadLine());
+            //if (bolunen%bolen==0)
+            //{
+            //    Console.WriteLine("eded tam bolunur");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("eded tam bolunmur");
+            //}
+
+
+            // 8-ci sual
+            //int eded = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(eded*2);
+
+
+            // 9-cu sual
+            //string ad1 = Console.ReadLine();
+            //string ad2 = Console.ReadLine();
+            //Console.WriteLine(ad1+ad2);
+
+
+
+            // 10-cu sual
+            //int teref = Convert.ToInt32(Console.ReadLine());
+            //int perimetr = 4 * teref;
+            //int sahe = teref * teref;
+            //Console.WriteLine("kvadratin perimetri :"+perimetr);
+            //Console.WriteLine("kvadratin sahesi :" + sahe);
+
+
+            // 11-ci sual
+            //int teref1 = Convert.ToInt32(Console.ReadLine());
+            //int teref2 = Convert.ToInt32(Console.ReadLine());
+            //int teref3 = Convert.ToInt32(Console.ReadLine());
+
+            //int perimetr = teref1 + teref2 + teref3;
+            //double sahe = 0.5 * (teref1 * teref2);
+            //Console.WriteLine("ucbucagin perimetr: " + perimetr);
+            //Console.WriteLine("ucbucagin sahesi: "+sahe);
+
+
+
+            // 12-ci sual 
+            //int radius = Convert.ToInt32(Console.ReadLine());
+            //double uzunluq = 2 * 3.14 * radius;
+            //double sahe = 3.14 * radius * radius;
+            //Console.WriteLine("cevrenin uzunlugu: " + uzunluq);
+            //Console.WriteLine("dairenin sahesi: " + sahe);
+        }
+    }
+}
